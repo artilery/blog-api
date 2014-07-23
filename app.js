@@ -11,7 +11,7 @@ var dbConfig={
 	 host:'localhost',
 	 user:'root',
 	 password:'your_password',
-	 database:'enviromobi',
+	 database:'blog',
 	 charset:'utf8'
   }
 };
